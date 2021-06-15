@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         New Userscript
 // @namespace    https://github.com/Stothe/tampermonkeytesting
-// @version      0.1
+// @version      0.1.1
 // @description  try to take over the world!
 // @author       You
 // @match        http://*/*
@@ -16,5 +16,5 @@
 (function() {
     'use strict';
 
-    // Your code here...
+    // this is an update to this file!
 })();
